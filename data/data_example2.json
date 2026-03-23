@@ -1,0 +1,1927 @@
+{
+  "ogrenciler": [
+    {
+      "id": 1,
+      "ad": "Can Özer",
+      "gno": 2.83,
+      "tercihler": [
+        37,
+        21,
+        23,
+        18,
+        16
+      ],
+      "arkadaslar": [
+        71,
+        25
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 2,
+      "ad": "Oğuz Öztürk",
+      "gno": 3.91,
+      "tercihler": [
+        6,
+        36,
+        9,
+        42,
+        8
+      ],
+      "arkadaslar": [
+        68
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 3,
+      "ad": "Esra Durmaz",
+      "gno": 2.37,
+      "tercihler": [
+        9,
+        42,
+        27,
+        35,
+        11
+      ],
+      "arkadaslar": [
+        13,
+        22,
+        32
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 4,
+      "ad": "Simge Güneş",
+      "gno": 3.33,
+      "tercihler": [
+        49,
+        26,
+        30,
+        17,
+        29
+      ],
+      "arkadaslar": [
+        65
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 5,
+      "ad": "Betül Aslan",
+      "gno": 2.5,
+      "tercihler": [
+        47,
+        1,
+        36,
+        10,
+        46
+      ],
+      "arkadaslar": [
+        29,
+        10,
+        31
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 6,
+      "ad": "Betül Sarı",
+      "gno": 2.21,
+      "tercihler": [
+        18,
+        22,
+        21,
+        46,
+        2
+      ],
+      "arkadaslar": [
+        28,
+        50
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 7,
+      "ad": "Cansu Özçelik",
+      "gno": 3.97,
+      "tercihler": [
+        40,
+        2,
+        39,
+        27,
+        9
+      ],
+      "arkadaslar": [
+        24,
+        15,
+        19
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 8,
+      "ad": "Eren Güler",
+      "gno": 2.49,
+      "tercihler": [
+        45,
+        9,
+        44,
+        13,
+        38
+      ],
+      "arkadaslar": [
+        61,
+        42,
+        55
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 9,
+      "ad": "Sudenur Özçelik",
+      "gno": 2.83,
+      "tercihler": [
+        18,
+        9,
+        31,
+        19,
+        42
+      ],
+      "arkadaslar": [
+        54,
+        67,
+        49
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 10,
+      "ad": "Eylül Özer",
+      "gno": 3.77,
+      "tercihler": [
+        10,
+        3,
+        46,
+        50,
+        36
+      ],
+      "arkadaslar": [
+        29,
+        31,
+        5
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 11,
+      "ad": "Eren Bulut",
+      "gno": 3.61,
+      "tercihler": [
+        46,
+        38,
+        12,
+        28,
+        39
+      ],
+      "arkadaslar": [
+        17,
+        18
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 12,
+      "ad": "Cansu Boran",
+      "gno": 3.65,
+      "tercihler": [
+        17,
+        42,
+        45,
+        41,
+        15
+      ],
+      "arkadaslar": [
+        66,
+        62,
+        56
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 13,
+      "ad": "Pınar Balcı",
+      "gno": 2.77,
+      "tercihler": [
+        42,
+        15,
+        4,
+        2,
+        35
+      ],
+      "arkadaslar": [
+        3,
+        22,
+        32
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 14,
+      "ad": "Ece Ergen",
+      "gno": 3.33,
+      "tercihler": [
+        25,
+        45,
+        43,
+        48,
+        14
+      ],
+      "arkadaslar": [
+        64,
+        58
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 15,
+      "ad": "Pınar Korkmaz",
+      "gno": 3.09,
+      "tercihler": [
+        49,
+        13,
+        14,
+        29,
+        27
+      ],
+      "arkadaslar": [
+        24,
+        19,
+        7
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 16,
+      "ad": "Şevval Özçelik",
+      "gno": 2.6,
+      "tercihler": [
+        40,
+        19,
+        31,
+        28,
+        44
+      ],
+      "arkadaslar": [
+        40,
+        70
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 17,
+      "ad": "Kemal Sönmez",
+      "gno": 3.01,
+      "tercihler": [
+        39,
+        12,
+        14,
+        38,
+        10
+      ],
+      "arkadaslar": [
+        18,
+        11
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 18,
+      "ad": "Sudenur Aksoy",
+      "gno": 3.15,
+      "tercihler": [
+        26,
+        21,
+        47,
+        38,
+        39
+      ],
+      "arkadaslar": [
+        17,
+        11
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 19,
+      "ad": "Ezgi Bulut",
+      "gno": 3.11,
+      "tercihler": [
+        9,
+        13,
+        39,
+        27,
+        37
+      ],
+      "arkadaslar": [
+        24,
+        15,
+        7
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 20,
+      "ad": "Harun Tekin",
+      "gno": 2.22,
+      "tercihler": [
+        1,
+        25,
+        4,
+        8,
+        33
+      ],
+      "arkadaslar": [
+        26,
+        57,
+        45
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 21,
+      "ad": "Enes Demir",
+      "gno": 3.84,
+      "tercihler": [
+        32,
+        22,
+        36,
+        13,
+        33
+      ],
+      "arkadaslar": [
+        48,
+        59,
+        38
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 22,
+      "ad": "Furkan Ergün",
+      "gno": 2.83,
+      "tercihler": [
+        32,
+        35,
+        4,
+        17,
+        2
+      ],
+      "arkadaslar": [
+        3,
+        13,
+        32
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 23,
+      "ad": "Melis Acar",
+      "gno": 2.71,
+      "tercihler": [
+        8,
+        37,
+        31,
+        24,
+        19
+      ],
+      "arkadaslar": [
+        30,
+        53
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 24,
+      "ad": "Onur Ergen",
+      "gno": 3.26,
+      "tercihler": [
+        27,
+        39,
+        13,
+        7,
+        36
+      ],
+      "arkadaslar": [
+        15,
+        19,
+        7
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 25,
+      "ad": "Merve Kavas",
+      "gno": 3.41,
+      "tercihler": [
+        48,
+        40,
+        18,
+        16,
+        21
+      ],
+      "arkadaslar": [
+        71,
+        1
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 26,
+      "ad": "Kaan Ateş",
+      "gno": 3.19,
+      "tercihler": [
+        38,
+        1,
+        25,
+        50,
+        15
+      ],
+      "arkadaslar": [
+        20,
+        57,
+        45
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 27,
+      "ad": "Okan Türkmen",
+      "gno": 2.3,
+      "tercihler": [
+        48,
+        45,
+        22,
+        37,
+        16
+      ],
+      "arkadaslar": [
+        43,
+        63,
+        35
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 28,
+      "ad": "Emine Taş",
+      "gno": 3.23,
+      "tercihler": [
+        1,
+        21,
+        22,
+        7,
+        24
+      ],
+      "arkadaslar": [
+        6,
+        50
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 29,
+      "ad": "Yusuf Efe",
+      "gno": 2.54,
+      "tercihler": [
+        30,
+        36,
+        7,
+        46,
+        43
+      ],
+      "arkadaslar": [
+        10,
+        31,
+        5
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 30,
+      "ad": "Zeynep Aktaş",
+      "gno": 3.92,
+      "tercihler": [
+        35,
+        37,
+        31,
+        27,
+        8
+      ],
+      "arkadaslar": [
+        53,
+        23
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 31,
+      "ad": "Ece Kurt",
+      "gno": 2.17,
+      "tercihler": [
+        14,
+        22,
+        36,
+        46,
+        50
+      ],
+      "arkadaslar": [
+        29,
+        10,
+        5
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 32,
+      "ad": "Tarık Özdemir",
+      "gno": 3.54,
+      "tercihler": [
+        42,
+        10,
+        35,
+        23,
+        4
+      ],
+      "arkadaslar": [
+        3,
+        13,
+        22
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 33,
+      "ad": "Sudenur Güney",
+      "gno": 3.0,
+      "tercihler": [
+        14,
+        43,
+        19,
+        18,
+        32
+      ],
+      "arkadaslar": [
+        51
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 34,
+      "ad": "Kemal Yalçın",
+      "gno": 2.43,
+      "tercihler": [
+        49,
+        20,
+        50,
+        18,
+        6
+      ],
+      "arkadaslar": [
+        69,
+        60,
+        46
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 35,
+      "ad": "Berk Acar",
+      "gno": 3.07,
+      "tercihler": [
+        22,
+        39,
+        17,
+        34,
+        45
+      ],
+      "arkadaslar": [
+        43,
+        27,
+        63
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 36,
+      "ad": "Melike Tekin",
+      "gno": 3.26,
+      "tercihler": [
+        44,
+        23,
+        25,
+        45,
+        47
+      ],
+      "arkadaslar": [
+        44
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 37,
+      "ad": "Azra Bulut",
+      "gno": 2.11,
+      "tercihler": [
+        27,
+        33,
+        29,
+        6,
+        23
+      ],
+      "arkadaslar": [
+        47,
+        52
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 38,
+      "ad": "Sultan Yalçın",
+      "gno": 2.85,
+      "tercihler": [
+        38,
+        32,
+        13,
+        40,
+        29
+      ],
+      "arkadaslar": [
+        48,
+        59,
+        21
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 39,
+      "ad": "Ezgi Güneş",
+      "gno": 2.35,
+      "tercihler": [
+        44,
+        1,
+        31,
+        38,
+        10
+      ],
+      "arkadaslar": [
+        41
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 40,
+      "ad": "Sultan Ülker",
+      "gno": 3.27,
+      "tercihler": [
+        40,
+        14,
+        16,
+        5,
+        29
+      ],
+      "arkadaslar": [
+        16,
+        70
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 41,
+      "ad": "Tuğba Altın",
+      "gno": 3.01,
+      "tercihler": [
+        1,
+        38,
+        10,
+        34,
+        31
+      ],
+      "arkadaslar": [
+        39
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 42,
+      "ad": "Emre Tunç",
+      "gno": 2.62,
+      "tercihler": [
+        9,
+        38,
+        17,
+        29,
+        32
+      ],
+      "arkadaslar": [
+        61,
+        8,
+        55
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 43,
+      "ad": "Veli Özçelik",
+      "gno": 3.78,
+      "tercihler": [
+        22,
+        48,
+        45,
+        29,
+        28
+      ],
+      "arkadaslar": [
+        27,
+        63,
+        35
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 44,
+      "ad": "Pınar Aslan",
+      "gno": 3.06,
+      "tercihler": [
+        19,
+        47,
+        35,
+        45,
+        25
+      ],
+      "arkadaslar": [
+        36
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 45,
+      "ad": "Damla Polat",
+      "gno": 2.04,
+      "tercihler": [
+        50,
+        25,
+        12,
+        43,
+        35
+      ],
+      "arkadaslar": [
+        20,
+        26,
+        57
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 46,
+      "ad": "Zeynep Türkmen",
+      "gno": 3.68,
+      "tercihler": [
+        49,
+        40,
+        20,
+        18,
+        6
+      ],
+      "arkadaslar": [
+        69,
+        34,
+        60
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 47,
+      "ad": "Hilal Özdemir",
+      "gno": 2.14,
+      "tercihler": [
+        29,
+        40,
+        3,
+        43,
+        28
+      ],
+      "arkadaslar": [
+        52,
+        37
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 48,
+      "ad": "Hatice Öztürk",
+      "gno": 3.48,
+      "tercihler": [
+        13,
+        23,
+        32,
+        50,
+        4
+      ],
+      "arkadaslar": [
+        59,
+        38,
+        21
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 49,
+      "ad": "Emine Duman",
+      "gno": 2.22,
+      "tercihler": [
+        31,
+        6,
+        28,
+        9,
+        39
+      ],
+      "arkadaslar": [
+        54,
+        67,
+        9
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 50,
+      "ad": "Hilal Aydın",
+      "gno": 3.76,
+      "tercihler": [
+        22,
+        18,
+        4,
+        21,
+        7
+      ],
+      "arkadaslar": [
+        6,
+        28
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 51,
+      "ad": "Pınar Tunç",
+      "gno": 2.23,
+      "tercihler": [
+        47,
+        43,
+        32,
+        19,
+        34
+      ],
+      "arkadaslar": [
+        33
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 52,
+      "ad": "Büşra Çelik",
+      "gno": 2.87,
+      "tercihler": [
+        40,
+        26,
+        34,
+        27,
+        29
+      ],
+      "arkadaslar": [
+        47,
+        37
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 53,
+      "ad": "Merve Ekinci",
+      "gno": 2.11,
+      "tercihler": [
+        8,
+        16,
+        9,
+        4,
+        31
+      ],
+      "arkadaslar": [
+        30,
+        23
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 54,
+      "ad": "Özge Duman",
+      "gno": 3.64,
+      "tercihler": [
+        6,
+        9,
+        42,
+        31,
+        24
+      ],
+      "arkadaslar": [
+        67,
+        49,
+        9
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 55,
+      "ad": "Enes Yıldırım",
+      "gno": 2.37,
+      "tercihler": [
+        39,
+        48,
+        44,
+        9,
+        38
+      ],
+      "arkadaslar": [
+        61,
+        42,
+        8
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 56,
+      "ad": "Büşra Erdoğan",
+      "gno": 3.12,
+      "tercihler": [
+        7,
+        14,
+        15,
+        41,
+        17
+      ],
+      "arkadaslar": [
+        12,
+        66,
+        62
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 57,
+      "ad": "Zeynep Bulut",
+      "gno": 2.95,
+      "tercihler": [
+        46,
+        1,
+        25,
+        23,
+        39
+      ],
+      "arkadaslar": [
+        20,
+        26,
+        45
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 58,
+      "ad": "Büşra Ekinci",
+      "gno": 2.35,
+      "tercihler": [
+        43,
+        1,
+        33,
+        14,
+        25
+      ],
+      "arkadaslar": [
+        14,
+        64
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 59,
+      "ad": "Zeynep Kaya",
+      "gno": 3.4,
+      "tercihler": [
+        4,
+        13,
+        21,
+        1,
+        32
+      ],
+      "arkadaslar": [
+        48,
+        38,
+        21
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 60,
+      "ad": "Sultan Ceylan",
+      "gno": 3.1,
+      "tercihler": [
+        39,
+        18,
+        6,
+        1,
+        49
+      ],
+      "arkadaslar": [
+        69,
+        34,
+        46
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 61,
+      "ad": "Mehmet Çetin",
+      "gno": 2.23,
+      "tercihler": [
+        9,
+        44,
+        43,
+        27,
+        45
+      ],
+      "arkadaslar": [
+        42,
+        8,
+        55
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 62,
+      "ad": "Oğuz Ateş",
+      "gno": 3.61,
+      "tercihler": [
+        8,
+        17,
+        10,
+        42,
+        41
+      ],
+      "arkadaslar": [
+        12,
+        66,
+        56
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 63,
+      "ad": "Yusuf Özer",
+      "gno": 2.78,
+      "tercihler": [
+        14,
+        22,
+        26,
+        46,
+        16
+      ],
+      "arkadaslar": [
+        43,
+        27,
+        35
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 64,
+      "ad": "Deniz Güler",
+      "gno": 3.55,
+      "tercihler": [
+        34,
+        32,
+        43,
+        46,
+        14
+      ],
+      "arkadaslar": [
+        14,
+        58
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 65,
+      "ad": "İlker Demir",
+      "gno": 3.87,
+      "tercihler": [
+        4,
+        48,
+        49,
+        29,
+        1
+      ],
+      "arkadaslar": [
+        4
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 66,
+      "ad": "Mehmet Özçelik",
+      "gno": 3.42,
+      "tercihler": [
+        19,
+        17,
+        44,
+        15,
+        41
+      ],
+      "arkadaslar": [
+        12,
+        62,
+        56
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 67,
+      "ad": "Duygu Özkan",
+      "gno": 3.27,
+      "tercihler": [
+        44,
+        38,
+        9,
+        28,
+        42
+      ],
+      "arkadaslar": [
+        54,
+        49,
+        9
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 68,
+      "ad": "Ezgi Aksoy",
+      "gno": 2.13,
+      "tercihler": [
+        4,
+        8,
+        24,
+        36,
+        46
+      ],
+      "arkadaslar": [
+        2
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 69,
+      "ad": "Berk Tunç",
+      "gno": 3.11,
+      "tercihler": [
+        49,
+        50,
+        20,
+        23,
+        2
+      ],
+      "arkadaslar": [
+        34,
+        60,
+        46
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 70,
+      "ad": "Ceren Demir",
+      "gno": 2.97,
+      "tercihler": [
+        5,
+        39,
+        31,
+        13,
+        40
+      ],
+      "arkadaslar": [
+        40,
+        16
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 71,
+      "ad": "Yusuf Güney",
+      "gno": 2.34,
+      "tercihler": [
+        18,
+        37,
+        45,
+        21,
+        12
+      ],
+      "arkadaslar": [
+        1,
+        25
+      ],
+      "arkadas_toleransi": 4
+    },
+    {
+      "id": 72,
+      "ad": "Hilal Taş",
+      "gno": 3.71,
+      "tercihler": [
+        42,
+        7,
+        6,
+        32,
+        46
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 73,
+      "ad": "Tolga Ateş",
+      "gno": 3.51,
+      "tercihler": [
+        22,
+        17,
+        29,
+        11,
+        42
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 74,
+      "ad": "Nisa Sönmez",
+      "gno": 3.63,
+      "tercihler": [
+        8,
+        33,
+        9,
+        3,
+        36
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 75,
+      "ad": "Selin Sönmez",
+      "gno": 2.53,
+      "tercihler": [
+        42,
+        36,
+        41,
+        20,
+        24
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 76,
+      "ad": "Nimet Boran",
+      "gno": 2.66,
+      "tercihler": [
+        31,
+        27,
+        34,
+        40,
+        47
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 77,
+      "ad": "Ayşe Güler",
+      "gno": 3.45,
+      "tercihler": [
+        34,
+        7,
+        11,
+        16,
+        21
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 78,
+      "ad": "Fatma Ekinci",
+      "gno": 3.91,
+      "tercihler": [
+        14,
+        36,
+        21,
+        29,
+        23
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 79,
+      "ad": "Sinem Kaya",
+      "gno": 3.85,
+      "tercihler": [
+        35,
+        2,
+        23,
+        30,
+        8
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 80,
+      "ad": "Nimet Ceylan",
+      "gno": 3.65,
+      "tercihler": [
+        17,
+        22,
+        13,
+        7,
+        42
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 81,
+      "ad": "Ayşe Başak",
+      "gno": 3.13,
+      "tercihler": [
+        36,
+        31,
+        16,
+        9,
+        35
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 82,
+      "ad": "Can Tekin",
+      "gno": 2.37,
+      "tercihler": [
+        50,
+        1,
+        16,
+        37,
+        45
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 83,
+      "ad": "Can Demir",
+      "gno": 3.65,
+      "tercihler": [
+        44,
+        15,
+        9,
+        36,
+        16
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 84,
+      "ad": "Hilal Başak",
+      "gno": 3.43,
+      "tercihler": [
+        15,
+        38,
+        37,
+        11,
+        28
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 85,
+      "ad": "Melis Ülker",
+      "gno": 3.3,
+      "tercihler": [
+        9,
+        4,
+        17,
+        19,
+        13
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 86,
+      "ad": "Betül Altın",
+      "gno": 2.4,
+      "tercihler": [
+        16,
+        19,
+        46,
+        33,
+        35
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 87,
+      "ad": "Serkan Özçelik",
+      "gno": 3.94,
+      "tercihler": [
+        30,
+        29,
+        5,
+        21,
+        43
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 88,
+      "ad": "Derya Tekin",
+      "gno": 2.06,
+      "tercihler": [
+        12,
+        31,
+        20,
+        3,
+        45
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 89,
+      "ad": "Arda Özçelik",
+      "gno": 3.48,
+      "tercihler": [
+        46,
+        13,
+        49,
+        15,
+        19
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 90,
+      "ad": "Betül Kurt",
+      "gno": 3.66,
+      "tercihler": [
+        6,
+        36,
+        15,
+        28,
+        30
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 91,
+      "ad": "Eylül Durmaz",
+      "gno": 3.2,
+      "tercihler": [
+        46,
+        34,
+        33,
+        38,
+        32
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 92,
+      "ad": "Kaan Aktaş",
+      "gno": 2.51,
+      "tercihler": [
+        8,
+        33,
+        39,
+        18,
+        4
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 93,
+      "ad": "Yasemin Ceylan",
+      "gno": 3.91,
+      "tercihler": [
+        7,
+        45,
+        10,
+        18,
+        41
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 94,
+      "ad": "Merve Balcı",
+      "gno": 3.21,
+      "tercihler": [
+        21,
+        45,
+        3,
+        15,
+        28
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 95,
+      "ad": "Duygu Balcı",
+      "gno": 3.54,
+      "tercihler": [
+        24,
+        37,
+        1,
+        49,
+        2
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 96,
+      "ad": "Arda Tan",
+      "gno": 2.35,
+      "tercihler": [
+        26,
+        17,
+        25,
+        44,
+        2
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 97,
+      "ad": "Gülsüm Şahin",
+      "gno": 3.51,
+      "tercihler": [
+        44,
+        10,
+        20,
+        49,
+        7
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 98,
+      "ad": "Damla Korkmaz",
+      "gno": 3.47,
+      "tercihler": [
+        13,
+        17,
+        18,
+        47,
+        45
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 99,
+      "ad": "Emine Özkan",
+      "gno": 3.38,
+      "tercihler": [
+        49,
+        6,
+        20,
+        45,
+        4
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 100,
+      "ad": "Yusuf Bulut",
+      "gno": 2.07,
+      "tercihler": [
+        11,
+        8,
+        4,
+        30,
+        9
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 101,
+      "ad": "Murat Keskin",
+      "gno": 2.36,
+      "tercihler": [
+        14,
+        36,
+        16,
+        22,
+        25
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 102,
+      "ad": "Okan Özkan",
+      "gno": 2.91,
+      "tercihler": [
+        23,
+        29,
+        19,
+        35,
+        36
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    }
+  ],
+  "firmalar": [
+    {
+      "id": 1,
+      "ad": "Bilişim A.Ş. #1",
+      "kontenjan": 3
+    },
+    {
+      "id": 2,
+      "ad": "Platform Bilişim #2",
+      "kontenjan": 1
+    },
+    {
+      "id": 3,
+      "ad": "IoT Bilişim #3",
+      "kontenjan": 2
+    },
+    {
+      "id": 4,
+      "ad": "Mühendislik A.Ş. #4",
+      "kontenjan": 3
+    },
+    {
+      "id": 5,
+      "ad": "DevOps Teknoloji #5",
+      "kontenjan": 1
+    },
+    {
+      "id": 6,
+      "ad": "Analitik Bilişim #6",
+      "kontenjan": 1
+    },
+    {
+      "id": 7,
+      "ad": "Fintek Sistemleri #7",
+      "kontenjan": 2
+    },
+    {
+      "id": 8,
+      "ad": "Büyük Veri Sistemleri #8",
+      "kontenjan": 3
+    },
+    {
+      "id": 9,
+      "ad": "Veri Analiz Teknoloji #9",
+      "kontenjan": 1
+    },
+    {
+      "id": 10,
+      "ad": "Web Tasarım Sistemleri #10",
+      "kontenjan": 2
+    },
+    {
+      "id": 11,
+      "ad": "Siber Güvenlik Teknoloji #11",
+      "kontenjan": 2
+    },
+    {
+      "id": 12,
+      "ad": "ERP Sistemleri #12",
+      "kontenjan": 3
+    },
+    {
+      "id": 13,
+      "ad": "Yapay Zeka Sistemleri #13",
+      "kontenjan": 2
+    },
+    {
+      "id": 14,
+      "ad": "İnovasyon Sistemleri #14",
+      "kontenjan": 2
+    },
+    {
+      "id": 15,
+      "ad": "Otomasyon A.Ş. #15",
+      "kontenjan": 1
+    },
+    {
+      "id": 16,
+      "ad": "Yazılım Bilişim #16",
+      "kontenjan": 2
+    },
+    {
+      "id": 17,
+      "ad": "Danışmanlık Sistemleri #17",
+      "kontenjan": 3
+    },
+    {
+      "id": 18,
+      "ad": "Dijital Bilişim #18",
+      "kontenjan": 2
+    },
+    {
+      "id": 19,
+      "ad": "Mobil A.Ş. #19",
+      "kontenjan": 3
+    },
+    {
+      "id": 20,
+      "ad": "Mikroservis Teknoloji #20",
+      "kontenjan": 1
+    },
+    {
+      "id": 21,
+      "ad": "Teknoloji Teknoloji #21",
+      "kontenjan": 3
+    },
+    {
+      "id": 22,
+      "ad": "Bulut A.Ş. #22",
+      "kontenjan": 2
+    },
+    {
+      "id": 23,
+      "ad": "E-Ticaret Teknoloji #23",
+      "kontenjan": 1
+    },
+    {
+      "id": 24,
+      "ad": "Makine Öğrenmesi Bilişim #24",
+      "kontenjan": 2
+    },
+    {
+      "id": 25,
+      "ad": "Robotik A.Ş. #25",
+      "kontenjan": 1
+    },
+    {
+      "id": 26,
+      "ad": "Akıllı Sistemler Teknoloji #26",
+      "kontenjan": 3
+    },
+    {
+      "id": 27,
+      "ad": "CRM Sistemleri #27",
+      "kontenjan": 2
+    },
+    {
+      "id": 28,
+      "ad": "Blockchain Sistemleri #28",
+      "kontenjan": 2
+    },
+    {
+      "id": 29,
+      "ad": "Sistem A.Ş. #29",
+      "kontenjan": 2
+    },
+    {
+      "id": 30,
+      "ad": "Veri Bilimi Teknoloji #30",
+      "kontenjan": 3
+    },
+    {
+      "id": 31,
+      "ad": "Bilişim A.Ş. #31",
+      "kontenjan": 3
+    },
+    {
+      "id": 32,
+      "ad": "Platform A.Ş. #32",
+      "kontenjan": 3
+    },
+    {
+      "id": 33,
+      "ad": "IoT Teknoloji #33",
+      "kontenjan": 2
+    },
+    {
+      "id": 34,
+      "ad": "Mühendislik Bilişim #34",
+      "kontenjan": 3
+    },
+    {
+      "id": 35,
+      "ad": "DevOps A.Ş. #35",
+      "kontenjan": 3
+    },
+    {
+      "id": 36,
+      "ad": "Analitik Bilişim #36",
+      "kontenjan": 3
+    },
+    {
+      "id": 37,
+      "ad": "Fintek Sistemleri #37",
+      "kontenjan": 1
+    },
+    {
+      "id": 38,
+      "ad": "Büyük Veri Teknoloji #38",
+      "kontenjan": 2
+    },
+    {
+      "id": 39,
+      "ad": "Veri Analiz A.Ş. #39",
+      "kontenjan": 3
+    },
+    {
+      "id": 40,
+      "ad": "Web Tasarım A.Ş. #40",
+      "kontenjan": 1
+    },
+    {
+      "id": 41,
+      "ad": "Siber Güvenlik Sistemleri #41",
+      "kontenjan": 2
+    },
+    {
+      "id": 42,
+      "ad": "ERP Bilişim #42",
+      "kontenjan": 2
+    },
+    {
+      "id": 43,
+      "ad": "Yapay Zeka Bilişim #43",
+      "kontenjan": 3
+    },
+    {
+      "id": 44,
+      "ad": "İnovasyon Sistemleri #44",
+      "kontenjan": 1
+    },
+    {
+      "id": 45,
+      "ad": "Otomasyon Bilişim #45",
+      "kontenjan": 1
+    },
+    {
+      "id": 46,
+      "ad": "Yazılım Bilişim #46",
+      "kontenjan": 1
+    },
+    {
+      "id": 47,
+      "ad": "Danışmanlık Sistemleri #47",
+      "kontenjan": 3
+    },
+    {
+      "id": 48,
+      "ad": "Dijital Teknoloji #48",
+      "kontenjan": 2
+    },
+    {
+      "id": 49,
+      "ad": "Mobil Sistemleri #49",
+      "kontenjan": 1
+    },
+    {
+      "id": 50,
+      "ad": "Mikroservis Teknoloji #50",
+      "kontenjan": 1
+    }
+  ]
+}

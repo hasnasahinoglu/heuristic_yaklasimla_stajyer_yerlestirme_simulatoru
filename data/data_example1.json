@@ -1,0 +1,118 @@
+{
+  "ogrenciler": [
+    {
+      "id": 1,
+      "ad": "Alper Ateş",
+      "gno": 2.35,
+      "tercihler": [
+        3,
+        4,
+        1
+      ],
+      "arkadaslar": [
+        4
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 2,
+      "ad": "Büşra Doğan",
+      "gno": 2.2,
+      "tercihler": [
+        1,
+        4,
+        3
+      ],
+      "arkadaslar": [
+        3
+      ],
+      "arkadas_toleransi": 2
+    },
+    {
+      "id": 3,
+      "ad": "Gizem Çelik",
+      "gno": 3.66,
+      "tercihler": [
+        3,
+        1,
+        2
+      ],
+      "arkadaslar": [
+        2
+      ],
+      "arkadas_toleransi": 3
+    },
+    {
+      "id": 4,
+      "ad": "Nehir Sezer",
+      "gno": 2.5,
+      "tercihler": [
+        3,
+        1,
+        4
+      ],
+      "arkadaslar": [
+        1
+      ],
+      "arkadas_toleransi": 1
+    },
+    {
+      "id": 5,
+      "ad": "Enes Arslan",
+      "gno": 2.49,
+      "tercihler": [
+        3,
+        2,
+        4
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 6,
+      "ad": "Sultan Ekinci",
+      "gno": 3.85,
+      "tercihler": [
+        2,
+        3,
+        4
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    },
+    {
+      "id": 7,
+      "ad": "Aslı Ülker",
+      "gno": 2.17,
+      "tercihler": [
+        1,
+        2,
+        4
+      ],
+      "arkadaslar": [],
+      "arkadas_toleransi": 0
+    }
+  ],
+  "firmalar": [
+    {
+      "id": 1,
+      "ad": "Yapay Zeka Teknoloji #1",
+      "kontenjan": 2
+    },
+    {
+      "id": 2,
+      "ad": "Fintek Teknoloji #2",
+      "kontenjan": 2
+    },
+    {
+      "id": 3,
+      "ad": "Makine Öğrenmesi Sistemleri #3",
+      "kontenjan": 2
+    },
+    {
+      "id": 4,
+      "ad": "Danışmanlık Bilişim #4",
+      "kontenjan": 1
+    }
+  ]
+}
